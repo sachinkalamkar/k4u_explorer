@@ -21,7 +21,7 @@ var path = require("path");
 var pgservice = require('./app/persistence/postgreSQL/db/pgservice.js');
 
 var host = process.env.HOST || appconfig.host;
-var port = process.env.PORT || 80;
+var port = process.env.PORT || 8080;
 
 class Broadcaster extends WebSocket.Server {
   constructor(server) {
