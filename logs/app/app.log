@@ -1,114 +1,34 @@
-[2019-03-25 15:26:04.724] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:26:04.753] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:26:04.841] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
+[2019-03-27 19:20:27.267] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-27 19:20:27.320] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-27 19:20:27.420] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
     at new createStatusError (/home/rapidqube/Documents/k4u_explorer/node_modules/grpc/src/client.js:64:15)
     at /home/rapidqube/Documents/k4u_explorer/node_modules/grpc/src/client.js:583:15
-[2019-03-25 15:26:36.185] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:26:36.207] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:26:36.244] [ERROR] Query - Error: 14 UNAVAILABLE: Connect Failed
-    at new createStatusError (/home/rapidqube/Documents/k4u_explorer/node_modules/grpc/src/client.js:64:15)
-    at /home/rapidqube/Documents/k4u_explorer/node_modules/grpc/src/client.js:583:15
-[2019-03-25 15:54:38.303] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:54:38.335] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:54:38.442] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 15:54:38.442] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 15:54:38.514] [DEBUG] Query - <<< Instantiated Chaincodes >>>
-[2019-03-25 15:54:38.514] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
-[2019-03-25 15:54:38.561] [DEBUG] Query - ===========================================
-[2019-03-25 15:54:38.561] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 02 12 20 04 30 25 92 87 20 90 c5 1d f3 a7 97 86 62 ba 7f 3c e3 76 17 8e d0 5d a5 17 d2 a6 60 f9 b3 60 03 1a 20 6c 91 48 42 2c f3 10 ab b0 b0 f8 95 ... >,
+[2019-03-27 19:22:57.609] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-27 19:22:57.630] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
+[2019-03-27 19:22:57.738] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-27 19:22:57.738] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
+[2019-03-27 19:22:57.827] [DEBUG] Query - ===========================================
+[2019-03-27 19:22:57.827] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 28 95 59 9e 1a 16 12 5a 6b 33 6f 4b da 5a 12 c9 cf 20 ad dd 66 f2 81 01 a0 6b 01 50 5d 46 7d 45 1a 20 5d c0 aa 1b 4d 3b 1a 52 77 79 38 4c ... >,
   offset: 4,
   markedOffset: -1,
   limit: 36,
   littleEndian: true,
   noAssert: false }
-[2019-03-25 15:54:38.566] [DEBUG] Query - ===========================================
-[2019-03-25 15:54:38.581] [DEBUG] Query - ===========================================
-[2019-03-25 15:54:38.582] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 02 12 20 04 30 25 92 87 20 90 c5 1d f3 a7 97 86 62 ba 7f 3c e3 76 17 8e d0 5d a5 17 d2 a6 60 f9 b3 60 03 1a 20 6c 91 48 42 2c f3 10 ab b0 b0 f8 95 ... >,
+[2019-03-27 19:22:57.834] [DEBUG] Query - ===========================================
+[2019-03-27 19:22:57.844] [DEBUG] Query - ===========================================
+[2019-03-27 19:22:57.844] [DEBUG] Query - ByteBuffer {
+  buffer: <Buffer 08 02 12 20 28 95 59 9e 1a 16 12 5a 6b 33 6f 4b da 5a 12 c9 cf 20 ad dd 66 f2 81 01 a0 6b 01 50 5d 46 7d 45 1a 20 5d c0 aa 1b 4d 3b 1a 52 77 79 38 4c ... >,
   offset: 4,
   markedOffset: -1,
   limit: 36,
   littleEndian: true,
   noAssert: false }
-[2019-03-25 15:54:38.582] [DEBUG] Query - ===========================================
-[2019-03-25 15:55:18.577] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
-[2019-03-25 15:56:18.869] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
-[2019-03-25 15:57:22.327] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
-[2019-03-25 15:57:54.146] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:57:54.168] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 15:57:54.241] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 15:57:54.241] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 15:57:54.350] [DEBUG] Query - <<< Instantiated Chaincodes >>>
-[2019-03-25 15:57:54.351] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
-[2019-03-25 15:57:54.359] [DEBUG] Query - ===========================================
-[2019-03-25 15:57:54.359] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 04 12 20 81 01 67 58 cc 41 1d ad 06 04 3a 0a 05 3b 94 cd da 7d eb 60 b3 e6 d2 4f a8 20 bf 19 5e eb 59 7b 1a 20 7b 12 1b 96 7e f8 99 55 fe 08 de dc ... >,
-  offset: 4,
-  markedOffset: -1,
-  limit: 36,
-  littleEndian: true,
-  noAssert: false }
-[2019-03-25 15:57:54.361] [DEBUG] Query - ===========================================
-[2019-03-25 15:57:54.375] [DEBUG] Query - ===========================================
-[2019-03-25 15:57:54.375] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 04 12 20 81 01 67 58 cc 41 1d ad 06 04 3a 0a 05 3b 94 cd da 7d eb 60 b3 e6 d2 4f a8 20 bf 19 5e eb 59 7b 1a 20 7b 12 1b 96 7e f8 99 55 fe 08 de dc ... >,
-  offset: 4,
-  markedOffset: -1,
-  limit: 36,
-  littleEndian: true,
-  noAssert: false }
-[2019-03-25 15:57:54.375] [DEBUG] Query - ===========================================
-[2019-03-25 15:58:20.593] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
-[2019-03-25 15:59:40.236] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
-[2019-03-25 16:04:12.781] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 16:04:12.803] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 16:04:12.901] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 16:04:12.901] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 16:04:12.915] [DEBUG] Query - <<< Instantiated Chaincodes >>>
-[2019-03-25 16:04:12.915] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
-[2019-03-25 16:04:12.977] [DEBUG] Query - ===========================================
-[2019-03-25 16:04:12.978] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 04 12 20 81 01 67 58 cc 41 1d ad 06 04 3a 0a 05 3b 94 cd da 7d eb 60 b3 e6 d2 4f a8 20 bf 19 5e eb 59 7b 1a 20 7b 12 1b 96 7e f8 99 55 fe 08 de dc ... >,
-  offset: 4,
-  markedOffset: -1,
-  limit: 36,
-  littleEndian: true,
-  noAssert: false }
-[2019-03-25 16:04:12.982] [DEBUG] Query - ===========================================
-[2019-03-25 16:04:13.064] [DEBUG] Query - ===========================================
-[2019-03-25 16:04:13.065] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 04 12 20 81 01 67 58 cc 41 1d ad 06 04 3a 0a 05 3b 94 cd da 7d eb 60 b3 e6 d2 4f a8 20 bf 19 5e eb 59 7b 1a 20 7b 12 1b 96 7e f8 99 55 fe 08 de dc ... >,
-  offset: 4,
-  markedOffset: -1,
-  limit: 36,
-  littleEndian: true,
-  noAssert: false }
-[2019-03-25 16:04:13.065] [DEBUG] Query - ===========================================
-[2019-03-25 16:04:42.294] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
-[2019-03-25 16:05:30.480] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
-[2019-03-25 16:06:04.334] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 16:06:04.356] [DEBUG] FabricConfiguration - Msp ID : Org1MSP
-[2019-03-25 16:06:04.437] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 16:06:04.437] [INFO] main - Please set logger.setLevel to DEBUG in ./app/helper.js to log the debugging.
-[2019-03-25 16:06:04.483] [DEBUG] Query - <<< Instantiated Chaincodes >>>
-[2019-03-25 16:06:04.483] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
-[2019-03-25 16:06:04.519] [DEBUG] Query - ===========================================
-[2019-03-25 16:06:04.519] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 06 12 20 b5 5a d7 8b 19 51 b4 57 d2 cd ca e6 89 de 5a dc e0 9a 95 28 38 d8 9d 90 1b 14 9d 19 2b 0c 9a ad 1a 20 3a a8 aa 53 d0 0c a5 48 aa f3 35 9a ... >,
-  offset: 4,
-  markedOffset: -1,
-  limit: 36,
-  littleEndian: true,
-  noAssert: false }
-[2019-03-25 16:06:04.522] [DEBUG] Query - ===========================================
-[2019-03-25 16:06:04.537] [DEBUG] Query - ===========================================
-[2019-03-25 16:06:04.537] [DEBUG] Query - ByteBuffer {
-  buffer: <Buffer 08 06 12 20 b5 5a d7 8b 19 51 b4 57 d2 cd ca e6 89 de 5a dc e0 9a 95 28 38 d8 9d 90 1b 14 9d 19 2b 0c 9a ad 1a 20 3a a8 aa 53 d0 0c a5 48 aa f3 35 9a ... >,
-  offset: 4,
-  markedOffset: -1,
-  limit: 36,
-  littleEndian: true,
-  noAssert: false }
-[2019-03-25 16:06:04.537] [DEBUG] Query - ===========================================
-[2019-03-25 16:06:33.328] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2019-03-27 19:22:57.844] [DEBUG] Query - ===========================================
+[2019-03-27 19:22:57.930] [DEBUG] Query - <<< Instantiated Chaincodes >>>
+[2019-03-27 19:22:57.931] [DEBUG] Query - name: Kare4u_20, version: 1.0, path: github.com/Kare4u_20
+[2019-03-27 19:24:08.281] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2019-03-27 19:25:29.503] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2019-03-27 19:26:31.114] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2019-03-27 19:27:09.307] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
+[2019-03-27 19:28:14.912] [DEBUG] platform - GetStatus All! [ { status: 'RUNNING', server_hostname: 'peer0.org1.example.com' } ]
